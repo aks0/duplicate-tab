@@ -6,7 +6,8 @@
   "version": "1.0",
 
   "browser_action": {
-    "default_icon": "dup.png",
+    // icon source: http://ka2copo.blogspot.com/2008/08/diversificada.html
+    "default_icon": "copy.png",
     "default_popup": "popup.html"
   }
 }
