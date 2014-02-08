@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "duplicate-tab",
+  "description": "Duplicates the current tab",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "dup.png",
+    "default_popup": "popup.html"
+  }
+}
